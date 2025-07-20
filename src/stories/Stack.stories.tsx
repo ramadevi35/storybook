@@ -12,7 +12,7 @@ const meta:Meta<StoryProps>={
     tags: ['autodocs'],
     argTypes:{
         numberOfChildren:{
-            options: [1,5,10,15,20],
+            options: [1,5,10,15,30],
             control: {
                 type: 'select',
             },
